@@ -1,0 +1,6 @@
+﻿  Tut2_1.cpp
+M:\CMP102\CMP102\CMP102\Tut2_1.cpp(12,19): warning C4305:  'initializing': truncation from 'double' to 'float'
+  customer.cpp
+  Generating Code...
+M:\CMP102\CMP102\CMP102\Tut2_1.cpp(43,73): warning C4804:  '>': unsafe use of type 'bool' in operation
+  CMP102.vcxproj -> M:\CMP102\CMP102\Debug\CMP102.exe
